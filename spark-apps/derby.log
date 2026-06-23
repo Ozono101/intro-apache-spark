@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jun 21 22:54:40 CDT 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019e-ed77-4fdc-000002482638 
+on database directory /Users/tsiameh/Desktop/PythonCourse/ai-ml-course/lesson17/spark-apps/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/usr/local/Cellar/apache-spark/4.1.2/libexec/jars/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-86
+user.dir=/Users/tsiameh/Desktop/PythonCourse/ai-ml-course/lesson17/spark-apps
+os.name=Mac OS X
+os.arch=x86_64
+os.version=26.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
